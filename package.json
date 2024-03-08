@@ -1,0 +1,26 @@
+{
+"name": "colorfulballani-toembal",
+"version": "1.0.0",
+"description": "This project demonstrates a simple animation effect created using HTML5 Canvas and JavaScript. It generates colorful bouncing balls moving within a diamond-shaped area.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/toembal/ColorfulBallAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "toembal",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
